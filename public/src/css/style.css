@@ -1,0 +1,19 @@
+.contenedor-formulario {
+    width: 300px;
+    justify-content: center;
+    background-color: rgba(119, 0, 255, 0.527);
+    padding: 5px;
+    border-radius: 25px;
+    display: flex;
+    margin-left: 35%;
+}
+
+.btn-primary {
+    justify-content: center;
+    align-items: center;
+    margin-left: 25%;
+}
+
+.img-footer{
+    width:100%;
+}
